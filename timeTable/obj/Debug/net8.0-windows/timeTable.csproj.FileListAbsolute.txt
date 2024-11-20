@@ -1,0 +1,17 @@
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\bin\Debug\net8.0-windows\timeTable.exe
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\bin\Debug\net8.0-windows\timeTable.deps.json
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\bin\Debug\net8.0-windows\timeTable.runtimeconfig.json
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\bin\Debug\net8.0-windows\timeTable.dll
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\bin\Debug\net8.0-windows\timeTable.pdb
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.Form1.resources
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.csproj.GenerateResource.cache
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.AssemblyInfoInputs.cache
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.AssemblyInfo.cs
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.csproj.CoreCompileInputs.cache
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.dll
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\refint\timeTable.dll
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.pdb
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.genruntimeconfig.cache
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\ref\timeTable.dll
+C:\Users\pdcle\Documents\Suli\c#alapok\timeTable\timeTable\obj\Debug\net8.0-windows\timeTable.Form2.resources

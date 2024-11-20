@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|c:\\users\\pdcle\\documents\\suli\\c#alapok\\timetable\\timetable\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|solutionrelative:timetable\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timetable\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|solutionrelative:timetable\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timetable\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|solutionrelative:timetable\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timetable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|solutionrelative:timetable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timetable\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|solutionrelative:timetable\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timetable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|solutionrelative:timetable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timetable\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A9FD21-F31D-48AD-B5A7-7FADBB4959BA}|timeTable\\timeTable.csproj|solutionrelative:timetable\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Controller.cs",
+              "RelativeDocumentMoniker": "timeTable\\Controller.cs",
+              "ToolTip": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Controller.cs",
+              "RelativeToolTip": "timeTable\\Controller.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T15:40:04.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Form2.cs",
+              "RelativeDocumentMoniker": "timeTable\\Form2.cs",
+              "ToolTip": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Form2.cs [Design]",
+              "RelativeToolTip": "timeTable\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T08:45:42.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Form1.cs",
+              "RelativeDocumentMoniker": "timeTable\\Form1.cs",
+              "ToolTip": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Form1.cs [Design]",
+              "RelativeToolTip": "timeTable\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-19T08:47:27.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Form2.cs",
+              "RelativeDocumentMoniker": "timeTable\\Form2.cs",
+              "ToolTip": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Form2.cs",
+              "RelativeToolTip": "timeTable\\Form2.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAWwFkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-17T16:05:58.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Schedule.cs",
+              "RelativeDocumentMoniker": "timeTable\\Schedule.cs",
+              "ToolTip": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Schedule.cs",
+              "RelativeToolTip": "timeTable\\Schedule.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T07:14:39.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Form1.cs",
+              "RelativeDocumentMoniker": "timeTable\\Form1.cs",
+              "ToolTip": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Form1.cs",
+              "RelativeToolTip": "timeTable\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-12T08:49:17.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Lesson.cs",
+              "RelativeDocumentMoniker": "timeTable\\Lesson.cs",
+              "ToolTip": "C:\\Users\\pdcle\\Documents\\Suli\\c#alapok\\timeTable\\timeTable\\Lesson.cs",
+              "RelativeToolTip": "timeTable\\Lesson.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvy4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T07:50:35.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
